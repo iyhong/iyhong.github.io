@@ -1,5 +1,5 @@
 ---
-title: "Second blog test""
+title: "Second blog test"
 excerpt: "Github blog 서비스 시작2"
 
 categories:
