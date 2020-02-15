@@ -1,10 +1,10 @@
 ---
-title: "이 블로그 설명서"
+title: "Who am I?"
 permalink: /about/
 layout: single
 ---
 
-## loverman85.github.io 블로그
+## hongP
 
 ### 2017.03 국비지원교육 Project
  - Leader, 설계 및 개발
