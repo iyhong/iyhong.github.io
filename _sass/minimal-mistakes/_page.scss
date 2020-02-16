@@ -38,18 +38,18 @@ body {
 .page {
   @include breakpoint($large) {
     float: right;
-    width: calc(100% - #{$right-sidebar-width-narrow});
+    width: 100%; //calc(100% - #{$right-sidebar-width-narrow});
     padding-right: $right-sidebar-width-narrow;
   }
 
   @include breakpoint($x-large) {
-    width: calc(100% - #{$right-sidebar-width});
+    width: 100%; //calc(100% - #{$right-sidebar-width});
     padding-right: $right-sidebar-width;
   }
 
   .page__inner-wrap {
       /* width 수정 */
-    width:900px;
+    // width:900px;
     float: left;
     margin-top: 1em;
     margin-left: 0;
