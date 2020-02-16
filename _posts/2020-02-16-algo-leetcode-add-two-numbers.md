@@ -1,9 +1,9 @@
 ---
 title: "[알고리즘-LeetCode]Add Two Numbers"
 excerpt: "알고리즘 문제풀이"
-classes: wide
+classes: middle
 toc: true
-toc_sticky: false
+toc_sticky: true
 
 categories:
  - Algorithm
