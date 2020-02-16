@@ -2,6 +2,8 @@
 title: "[알고리즘-LeetCode]Add Two Numbers"
 excerpt: "알고리즘 문제풀이"
 classes: wide
+toc: true
+toc_sticky: true
 
 categories:
  - Algorithm
@@ -25,7 +27,7 @@ Output: 7 -> 0 -> 8
 Explanation: 342 + 465 = 807.
  ```
 
-## Solution
+## 1.Solution
 일단 저의 첫 풀이는 while 문을 이용해서 문자열에 각 node 들을 방문하면서 val 들을 꺼냈고  
 문자열로 만들어서 뒤집어서 숫자로 변환해서 합을 구했습니다.  
 단순하게 문제에서 하라는데로 했죠..
@@ -80,6 +82,7 @@ class Solution {
 그래서 생각한건 재귀호출 **(recursive)**  
 근데 재귀로 짜는게 너무 오랜만이라 소스가 굉장히 이상하고.. 지저분하네요  
 
+## 2.Solution
 이전과는 다르게 문자열을 만들어 두 수의 합을 따로 계산하지 않고
 바로 result ListNode에 만들기때문에 마지막에 for문을 도는 부분을 제거할 수 있었구요  
 코드를 좀 더 다듬으면 깔끔한 코드가 나올것 같은데 저렇게 짜는 것도 시행착오중에 하나라고 생각하고 올려봅니다.  
@@ -144,7 +147,7 @@ class Solution {
     }
 }
 ```
-
+## 3.Solution
 이제 마지막으로 LeetCode에 올려져있는 답을 보았습니다.  
 역시 소스가 매우 깔끔하고 군더더기 없네요.. 근데 속도는 **2 ms** 로 조금 느리네요.  
 아무래도 반복문 보다는 recursive 가 더 속도는 빠른것 같습니다.
