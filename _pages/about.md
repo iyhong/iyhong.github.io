@@ -2,6 +2,8 @@
 title: "Who am I?"
 permalink: /about/
 layout: single
+toc: true
+toc_sticky: true
 ---
 
 ## Inyong Hong
@@ -28,19 +30,19 @@ layout: single
  - 기술스택 : springboot2.1.7, JPA, gradle, mustache, mariadb, OAuth2.0, aws(ec2, s3, CodeDeploy), Travis CI
  - Travis CI와 CodeDeploy 를 활용해 무중단 배포시스템 구축
  - OAuth2.0 을 활용해 google, naver 로그인 구현
- - GitHub: https://github.com/loverman85/spring-boot-gradle-test
+ - [GitHub](https://github.com/loverman85/spring-boot-gradle-test)
 
 
 ### 2019.09 스냅사진 매칭 서비스 (toy project)
  - serverside(springboot, JPA, h2-db)
  - email 인증으로 회원가입까지 구현
- - Github: https://github.com/loverman85/snap
+ - [Github](https://github.com/loverman85/snap)
 
 
 ### 2019.01 Chrome_extension (toy project)
  - 네이버 검색어 결과를 기반으로 현재날씨, 미세먼지수치를 보여주는 확장프로그램 개발
  - javascript
- - Github: https://github.com/loverman85/chrome_extension_current_weather.git
+ - [Github](https://github.com/loverman85/chrome_extension_current_weather.git)
 
 
 ### 2017.03 국비지원교육 Project
