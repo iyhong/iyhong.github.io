@@ -45,7 +45,8 @@ Query OK, 1 row affected (0.01 sec)
 
 ## 3. 사용자 계정 생성
 >create user 'new_user'@'%' identified by '1234';  
-이렇게 하면 에러난다. 비밀번호 정책을 만족하지 못한다고.
+이렇게 하면 에러난다. 비밀번호 정책을 만족하지 못한다고.  
+
 ```shell
 mysql> create user 'new_user'@'%' identified by '1234';
 ERROR 1819 (HY000): Your password does not satisfy the current policy requirements
