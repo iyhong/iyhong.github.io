@@ -7,13 +7,7 @@ toc_sticky: true
 categories:
  - MySQL
 tags:
- - DB
  - MySQL
- - grant
- - revoke
- - database
- - user
- - password
 ---
 
 # MySQL user 생성하기

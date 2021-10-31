@@ -8,9 +8,7 @@ toc_sticky: true
 categories:
  - Algorithm
 tags:
- - C++
- - LeetCode
- - Easy
+ - Algorithm
 ---
 
 # Two Sum

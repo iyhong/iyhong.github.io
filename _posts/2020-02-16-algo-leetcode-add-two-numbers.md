@@ -8,9 +8,7 @@ toc_sticky: true
 categories:
  - Algorithm
 tags:
- - Java
- - LeetCode
- - Medium
+ - Algorithm
 ---
 
 # Add Two Numbers

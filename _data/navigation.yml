@@ -6,10 +6,13 @@ main:
     url: /categories
   - title: "Tags"
     url: /tags
-  - title: "About"
-    url: /about
+  # - title: "About"
+  #   url: /about
   - title: "Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: https://eona1301.github.io/a_to_z/GithubBlog/
+    
+  # - title: "Guide"
+  #   url: https://iyhong.github.io/docs/quick-start-guide/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"

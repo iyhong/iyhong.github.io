@@ -8,9 +8,7 @@ toc_sticky: true
 categories:
  - Algorithm
 tags:
- - c++
- - LeetCode
- - Easy
+ - Algorithm
 ---
 # Palindrome Number
 
