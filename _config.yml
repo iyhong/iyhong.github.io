@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Inyong Hong"
   avatar           : "/assets/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "For tomorrow better than today."
+  bio              : "For tomorrow better than today!"
   location         : "South Korea"
   email            :
   links:
